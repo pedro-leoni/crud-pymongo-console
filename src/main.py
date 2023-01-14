@@ -1,4 +1,4 @@
-from db import TasksDB
+from src.db import TasksDB
 
 db = TasksDB()
 # print('DB READY')
